@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![Todo List App](./public/assets/94630639/86ec969b-7141-4420-a8a1-d213f3e94ee0.png)
+![image](https://github.com/mohitSr1021/todo_list_react_application/assets/94630639/8dcc21df-328f-4be2-8963-774301476735)
+
 
 ## Available Scripts
 
