@@ -259,7 +259,7 @@ function App() {
             onClick={clearAllPendingTasks}
             className="w-fit bg-slate-900 hover:bg-red-800 rounded-md ml-auto mr-auto mt-1 mb-1 text-white pl-2 pr-2 pt-1 pb-1 cursor-pointer flex gap-2 items-center  shadow-custom"
           >
-            <i class="fa-solid fa-trash"></i>
+            <i className="fa-solid fa-trash"></i>
             <span>Clear All Pending Tasks</span>
           </div>
         </div>
@@ -386,7 +386,7 @@ function App() {
             onClick={clearAllCompletedTasks}
             className="w-fit bg-slate-900 hover:bg-green-800 rounded-md ml-auto mr-auto mt-1 mb-1 text-white pl-2 pr-2 pt-1 pb-1 cursor-pointer flex gap-2 items-center shadow-custom"
           >
-            <i class="fa-solid fa-trash"></i>
+            <i className="fa-solid fa-trash"></i>
             <span>Clear All Completed Tasks</span>
           </div>
         </div>
