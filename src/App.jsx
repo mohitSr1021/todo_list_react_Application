@@ -16,6 +16,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/todo_list_react_application/" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="/task" element={<SetTasks />} />
         <Route path="/view-tasks" element={<AllTasks />} />
