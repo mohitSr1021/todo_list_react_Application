@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
-
+# 1.
 ![image](https://github.com/mohitSr1021/todo_list_react_application/assets/94630639/8dcc21df-328f-4be2-8963-774301476735)
+
+# 2.
+![image](https://github.com/mohitSr1021/todo_list_react_application/assets/94630639/eb5f5249-c766-4920-b9a3-7abc12fcaac9)
 
 
 ## Available Scripts
