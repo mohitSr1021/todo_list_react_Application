@@ -6,8 +6,7 @@ const Contact = () => {
           <div className="mb-4">
             <label
               className="block text-blue-500 text-sm font-bold mb-2"
-              htmlFor="name"
-            >
+              htmlFor="name" >
               Name:
             </label>
             <input
